@@ -15,7 +15,7 @@ python3 server.py
 
 **Link to Video**  
 
-Link to video : https://drive.google.com/file/d/1vNPBbM0zWXVK8CFp06HaaE9Vih0Z3STA/view?usp=sharing
+Link to video : 
 
 **NOTE:**
 Json file must be present in the root directory  
